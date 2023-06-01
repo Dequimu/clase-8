@@ -5,6 +5,10 @@ body {
     padding: 0px;
 }
 
+.greeting {
+    text-align: center;
+}
+
 .container {
     max-width: 800px;
     margin: auto;
